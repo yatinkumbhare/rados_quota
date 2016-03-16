@@ -1,11 +1,14 @@
 {
     "101": {
-        "quota": 1024
+        "unit": "GB", 
+        "user_quota": 1
     }, 
     "102": {
-        "quota": 2048
+        "unit": "MB", 
+        "user_quota": 2048
     }, 
     "103": {
-        "quota": 4072
+        "unit": "KB", 
+        "user_quota": 4072
     }
 }
